@@ -1,13 +1,11 @@
-QueenDomination
+NoThreePointsInLine
 ===============
 
-QueenDomination is a kind of pazzle game with chess.
-This is a description of "Domination problems" from
-[Mathematical chess problem](http://en.wikipedia.org/wiki/Mathematical_chess_problem#Domination_problems)
+QueenDomination is a kind of pazzle game.
+This is a description from
+[No-three-in-line problem](http://en.wikipedia.org/wiki/No-three-in-line_problem)
 entry on Wikipedia, the free encyclopedia.
 
-> Another kind of mathematical chess problems is a domination problem (or covering).
-> In these problems it is requested to find a minimum number of pieces of the given kind and place them
-> on a chess board in such a way, that all free squares of the board are attacked by at least one piece.
-> The minimal number of dominating kings is 9, queens - 5, rooks - 8, bishops - 8, knights - 12.
-> To get 8 dominating rooks one can place them on one of main diagonals.
+
+> In mathematics, in the area of discrete geometry, the no-three-in-line-problem, introduced by Henry Dudeney in 1917, asks for the maximum number of points that can be placed in the n × n grid so that no three points are collinear. This number is at most 2n, since if 2n + 1 points are placed in the grid some row will contain three points.
+
